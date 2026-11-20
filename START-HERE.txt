@@ -1,0 +1,4 @@
+1. Double-click index.html.
+2. Drop your Excel file, press Load addresses, then add people and share the addresses (the Distribute features).
+   Links open each person's own list, sorted from where they are. See Settings for putting the app online.
+Move or copy this whole folder anywhere.

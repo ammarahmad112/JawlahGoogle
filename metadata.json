@@ -1,0 +1,7 @@
+{
+  "name": "Address Distributor",
+  "description": "Import, geocode, sort, and distribute addresses with interactive maps, routing, and Excel export.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
